@@ -6,7 +6,7 @@ Model trained on 6000 images and hosted using [Teachable Machine](https://teacha
 
 ## Training Your Own Model
 
-To make this work for yourself you'll need to train your own model by training a new [Image Project](https://teachablemachine.withgoogle.com/train/image). Use the classes `Est1`, `Est3`, `Est5` and `ThumbsUp` to make the classification work out of the box, otherwise change the code to match the class names you pick.
+To make this work for yourself you'll need to train your own model by training a new [Image Project](https://teachablemachine.withgoogle.com/train/image). Use the classes `Est1`, `Est3`, `Est5` and `ThumbsUp` to make the classification work out of the box, otherwise change the code to match the class names you pick. You'll also need to train a class like `Background` to capture the state where no overlay image should be shown.
 
 When the model has finished training, click export and copy the link into `sketch.js`, assigning it to the `imageModelURL` variable.
 
