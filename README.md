@@ -24,3 +24,8 @@ There are probably multiple ways to do this but I used [Open Broadcast Studio (O
 6. In OBS go to `tools > start virtualcam`. 
 7. Join your Zoom meeting or Google Hangout, choose the OBS Virtualcam as your video source.
 8. Impress your friends and collegues with your integuity and whimsy.
+
+## TODO
+- [ ] Use CDN for p5.js distro
+- [ ] Add more fun gestures 
+- [ ] Render gifs rather than images 
