@@ -1,4 +1,4 @@
-# Zoom Planning Poker Machine Vision Overlay
+# Zoom Planning Poker Computer Vision Overlay
 
 Uses image classification on video snapshots to trigger overlays of the numbers 1, 3 and 5 or an image of the thumbs up emoji 👍. The purpose of this project is to make it clear, on video, what estimate you are giving to a story during [Planning Poker](https://en.wikipedia.org/wiki/Planning_poker).
 
